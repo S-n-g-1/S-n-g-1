@@ -1,6 +1,6 @@
 # 👋 Hi, I'm S-n-g-1
 
-🚀 Developer | 🎮 Indie Game Enthusiast | 🧠 Lifelong Learner
+🚀 Developer | 🧠 Lifelong Learner
 
 Welcome to my digital playground — where code meets creativity.  
 I build things that (hopefully) make the world a little more fun and a bit more meaningful.
@@ -8,14 +8,13 @@ I build things that (hopefully) make the world a little more fun and a bit more 
 ---
 
 ## 🛠️ Tech Stack
-![Skills](https://skillicons.dev/icons?i=py,java,go,html,js,git,linux&perline=6)
+![Skills](https://skillicons.dev/icons?i=py,go,html,css,js,linux)
 
 ---
 
 ## 📂 Featured Projects
 
-- 🎮 [fb-career](https://github.com/S-n-g-1/fb-career): A football career simulation game built from scratch  
-- 🧪 [mudahpy](https://github.com/S-n-g-1/mudahpy): Python made easier, in Bahasa Indonesia
+- none
 
 ---
 
