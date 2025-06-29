@@ -1,6 +1,6 @@
 # 👋 Hi, I'm S-n-g-1
 
-🚀 Developer | 🧠 Lifelong Learner
+🚀 Developer
 
 Welcome to my digital playground — where code meets creativity.  
 I build things that (hopefully) make the world a little more fun and a bit more meaningful.
