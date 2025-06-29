@@ -8,7 +8,7 @@ I build things that (hopefully) make the world a little more fun and a bit more 
 ---
 
 ## 🛠️ Tech Stack
-![Skills](https://skillicons.dev/icons?i=py,go,html,css,js,linux)
+![Skills](https://skillicons.dev/icons?i=py,html,css,js)
 
 ---
 
