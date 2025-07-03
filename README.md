@@ -8,13 +8,14 @@ I build things that (hopefully) make the world a little more fun and a bit more 
 ---
 
 ## 🛠️ Tech Stack
-![Skills](https://skillicons.dev/icons?i=py,html,css,js)
+![Skills](https://skillicons.dev/icons?i=go,py,html,css,js)
 
 ---
 
 ## 📂 Featured Projects
 
-- none
+- Foot-Star
+- Bot-csv
 
 ---
 
