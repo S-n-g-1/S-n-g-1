@@ -14,14 +14,7 @@ I build things that (hopefully) make the world a little more fun and a bit more 
 
 ## 📂 Featured Projects
 
-- Foot-Star
 - Bot-csv
-
----
-
-## 📊 GitHub Stats
-
-![S-n-g-1's GitHub Stats](https://github-readme-stats.vercel.app/api?username=S-n-g-1&show_icons=true&theme=tokyonight)
 
 ---
 
