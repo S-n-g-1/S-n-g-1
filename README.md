@@ -53,9 +53,9 @@ philosophy:
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=S-n-g-1&show_icons=true&theme=transparent&hide_border=true&title_color=ffffff&text_color=c9c9c9&icon_color=ffffff"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=S-n-g-1&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=S-n-g-1&layout=compact&theme=transparent&hide_border=true&title_color=ffffff&text_color=c9c9c9"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=S-n-g-1&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000"/>
 
 </p>
 
@@ -109,7 +109,7 @@ $ philosophy
 
 <div align="center">
 
-<img src="https://media.tenor.com/x8v1oNUOmg4AAAAd/anime-aesthetic.gif" width="80%"/>
+<img src="https://media.tenor.com/x8v1oNUOmg4AAAAd/anime-aesthetic.gif" width="20%"/>
 
 ### 「 Thanks for visiting 」
 
