@@ -44,22 +44,8 @@ philosophy:
 # ⚔️ Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=typescript,javascript,nodejs,react,nextjs,express,mongodb,mysql,python,docker,git,linux,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,go,nodejs,git,linux,vscode" />
 </p>
-
----
-
-# 📊 Statistics
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=S-n-g-1&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=S-n-g-1&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000"/>
-
-</p>
-
----
 
 # 🔥 Contribution
 
